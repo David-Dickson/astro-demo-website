@@ -2,7 +2,7 @@
 
 > 🧑‍🚀 **Want to learn for about Astro? [Click here](https://astro.build/)**
 
-![basics](./src/images/astro.png)
+![basics](./src/images/astro-readme.png)
 
 ## 🚀 Project Structure
 
