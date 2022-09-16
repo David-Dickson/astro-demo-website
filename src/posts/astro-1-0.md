@@ -1,10 +1,12 @@
 ---
 title: Astro 1.0
 slug: astro-1-0
-excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptate, quae, quod, voluptates quibusdam voluptatibus quidem voluptatum quos quia quas nesciunt. Quisquam, quae. Quisquam, quae. Quisquam, quae. Quisquam, quae.
-date: 2022-05-13
-author: John Doe
+excerpt: Astro 1.0 is out now! Astro is a web framework for building fast, content-focused websites. Performance powered by Astro next-gen island architecture. Learn more about Astro 1.0 release, our new website, and what people are saying about Astro.
+date: 2022-08-09
+author: Fred Schott
 ---
+
+[Read this actual blog from Astro's Co-Creater Fred Schott here!](https://astro.build/blog/astro-1/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis porttitor mauris. Sed quis nulla malesuada, imperdiet ipsum eleifend, pharetra lacus. Maecenas vehicula tincidunt lorem sed elementum. Vestibulum luctus consectetur risus at aliquet. Donec ac sapien malesuada, congue neque ultrices, fringilla velit. Suspendisse potenti. Maecenas ac elit sem. Suspendisse malesuada ligula eu efficitur vulputate. Mauris tincidunt urna a elit ultricies porttitor. Donec vestibulum nibh euismod lectus rutrum sollicitudin. Aliquam luctus urna volutpat erat malesuada sodales. Etiam dapibus interdum est, sit amet aliquet turpis accumsan non. Sed tincidunt felis ut magna tincidunt, sit amet mollis neque ultricies. Duis mollis, libero sit amet dictum faucibus, mauris sapien volutpat est, sit amet molestie enim eros et lorem.
 
